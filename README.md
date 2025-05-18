@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a **Computer Science & Engineering** student at **SVNI
 
 ## 🚀 About Me
 - 🔭 Currently learning **Web Development** and **AI/ML**  
-- 🎯 Goal: Master **DSA, Web Development, and AI/ML** for a high-paying job  
+- 🎯 Goal: Master **DSA, Web Development, and AI/ML**
 - 📚 Strong interest in **Mathematics and Problem Solving**  
 - 🌱 Exploring **Jain philosophy, self-improvement, and meditation**  
 - 💡 Passionate about **Technology, Productivity, and Continuous Learning**  
